@@ -1,0 +1,14 @@
+{
+    "tests": [
+      {
+        "name": "complexFunction",
+        "setup": "",
+        "run": "npx jest --coverage --testNamePattern 'Addition Operator'",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 100
+      }
+    ]
+  }
