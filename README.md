@@ -1,0 +1,2 @@
+## Beispiel: Komplexe Logik
+In diesem Beispiel findet ihr eine Javascript Datei, die ein komplexes Beispiel enthält. Eure Aufgabe ist es, diesen Beispiel Code mit einer Testabdeckung von min 80% zu versehen. Erst wenn das Ziel erreicht ist, gilt diese Aufgabe als erfüllt und ihr bekommt 100 Punkte.
