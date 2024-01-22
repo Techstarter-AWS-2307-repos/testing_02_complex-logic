@@ -3,7 +3,7 @@
       {
         "name": "complexFunction",
         "setup": "",
-        "run": "npx jest --coverage --testNamePattern 'Addition Operator'",
+        "run": "npx jest --coverage --testNamePattern 'complexFunction'",
         "input": "",
         "output": "",
         "comparison": "included",
